@@ -140,7 +140,7 @@ code. Download the latest source here:
 Alternatively you can also checkout the code directly from the git repository:
 
 ```shell
-git clone https://github.com/pbek/QOwnNotes.git -b master
+git clone https://github.com/rmgas1/QOwnNotes.git -b master
 cd QOwnNotes
 git submodule update --init
 ```
